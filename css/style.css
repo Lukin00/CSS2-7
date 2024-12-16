@@ -71,7 +71,6 @@
 .boxes{
     max-width: 1280px;
     width: 100%;
-    border: 1px solid black;
     margin: 0 auto;
     margin-top: 56px;
 }
@@ -85,7 +84,6 @@
     display: inline-block;
     vertical-align: middle;
     margin-left: 90px;
-    border: 1px solid black;
 }
 .card_head{
     font-size: 14px;
